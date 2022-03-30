@@ -17,6 +17,7 @@ public class Superpower {
 
     @NotBlank(message = "Name is mandatory")
     private String name;
+    
 
     public Superpower() {
      
